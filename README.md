@@ -1068,6 +1068,37 @@ El mensaje de los investigadores es claro: **"Es real. Detrás de esos usuarios 
 
 ---
 
+No existe una cifra oficial única de víctimas mortales atribuidas a la red 764, ya que opera en la clandestinidad y muchos casos no se denuncian. 
+Sin embargo, los datos de investigaciones periodísticas y judiciales permiten establecer un mínimo de 8 víctimas mortales confirmadas, aunque la cifra real es probablemente mayor.
+
+Víctimas Mortales Confirmadas
+1. Jay Taylor (13 años, EE.UU.)
+El caso más documentado. Jay fue coaccionado para quitarse la vida en enero de 2022 mientras transmitía en vivo por una plataforma digital. Sus padres han demandado a Discord.
+
+2. Adolescente (15 años, Canadá)
+Una chica de Vancouver murió por suicidio en febrero de 2025 tras ser víctima de la red.
+
+3. Menor (7 años, Alemania)
+Una niña de 7 años fue apuñalada hasta la muerte en octubre de 2024 en Leipzig por su hermana de 13 años, quien fue manipulada por un miembro de 764.
+
+4-9. Al menos 6 víctimas adicionales
+Una investigación de Der Spiegel reveló que la red "Com" y el grupo 764 son responsables de al menos seis muertes más en los últimos años, la mayoría por suicidio en directo.
+
+Resumen de Víctimas Mortales
+Víctima	Edad	Lugar	Año	Circunstancia
+Jay Taylor	13	EE.UU.	2022	Suicidio inducido y transmitido en vivo
+Adolescente	15	Canadá	2025	Suicidio
+Menor	7	Alemania	2024	Asesinato inducido por su hermana de 13 años
+Al menos 6 víctimas	N/D	Varios	N/D	Suicidios inducidos y transmitidos en directo
+Consideraciones Finales
+Cifras oficiales: No hay un registro unificado, ya que las investigaciones están activas en múltiples países.
+
+Subregistro: Muchos casos no se denuncian o no se vinculan con la red.
+
+Terrorismo: Canadá clasificó a 764 como entidad terrorista en diciembre de 2025
+
+---
+
 **FIN DEL INFORME COMPLETO**
 
 ---
@@ -1076,6 +1107,7 @@ El mensaje de los investigadores es claro: **"Es real. Detrás de esos usuarios 
 Condor2026
 OSINT & Cyber Threat Analysis
 GitHub: Condor2026
+(LOS NIÑOS NO SE TOCAN!)
 
 ---
 
