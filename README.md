@@ -9,7 +9,18 @@
 **Fecha:** 29 de junio de 2026
 **Clasificación:** TLP:WHITE
 
-    PARTE 1: LA SECTA 764 – ORIGEN, IDEOLOGÍA Y ESTRUCTURA GLOBAL
+---
+<div align="center">
+  <h3>⚠️ AVISO IMPORTANTE</h3>
+  <p>
+    <strong>Este es un análisis de opinión con fines educativos y de concienciación.</strong><br>
+    No constituye asesoramiento legal, técnico ni de seguridad.<br>
+    Para más detalles, consulte el archivo <a href="DISCLAIMER.md">DISCLAIMER.md</a>.
+  </p>
+</div>
+---
+
+PARTE 1: LA SECTA 764 – ORIGEN, IDEOLOGÍA Y ESTRUCTURA GLOBAL
 
 ---
 
@@ -181,7 +192,7 @@ Su objetivo declarado es destruir la sociedad civilizada mediante la corrupción
 
 ---
 
-     PARTE 2: EL CASO GOV.ETH – EL "MESSI DE LOS HACKERS" Y SUS CRÍMENES CIBERNÉTICOS
+PARTE 2: EL CASO GOV.ETH – EL "MESSI DE LOS HACKERS" Y SUS CRÍMENES CIBERNÉTICOS
 
 ---
 
@@ -573,7 +584,7 @@ El caso Gov.eth marcó un antes y un después en la lucha contra el cibercrimen 
 
 ---
 
-    PARTE 3: EL CONTEXTO MÁS AMPLIO – LA AMENAZA HÍBRIDA Y LAS MEDIDAS DE PREVENCIÓN
+PARTE 3: EL CONTEXTO MÁS AMPLIO – LA AMENAZA HÍBRIDA Y LAS MEDIDAS DE PREVENCIÓN
 
 ---
 
