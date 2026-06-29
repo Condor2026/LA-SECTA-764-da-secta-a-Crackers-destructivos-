@@ -1,6 +1,6 @@
 #Informe
 
-PARTE 1: LA SECTA 764 – ORIGEN, IDEOLOGÍA Y ESTRUCTURA GLOBAL
+    PARTE 1: LA SECTA 764 – ORIGEN, IDEOLOGÍA Y ESTRUCTURA GLOBAL
 
 ---
 
@@ -172,6 +172,398 @@ Su objetivo declarado es destruir la sociedad civilizada mediante la corrupción
 
 ---
 
-FIN DE LA PARTE 1
+     PARTE 2: EL CASO GOV.ETH – EL "MESSI DE LOS HACKERS" Y SUS CRÍMENES CIBERNÉTICOS
 
-Continuará con la Parte 2: El Caso Gov.eth – El "Messi de los Hackers" y sus Crímenes Cibernéticos
+---
+
+1. PERFIL DEL DETENIDO: MATHEO ENZO TORRES PALACIOS
+
+1.1. Identidad y datos básicos
+
+· Nombre completo: Matheo Enzo Torres Palacios
+· Alias principal: @Gov.eth
+· Edad: 22 años
+· Nacionalidad: Argentino (con nacionalidad española)
+· Lugar de residencia y detención: Madrid, España
+· Fecha de detención: 25-26 de junio de 2026
+
+1.2. El apodo: "El Messi de los hackers"
+
+La prensa y los investigadores lo apodaron "El Messi de los hackers", un título que refleja tanto su nivel técnico como la notoriedad pública que alcanzó. A diferencia de muchos hackers que actúan desde el anonimato total, Gov.eth cultivó una figura pública controvertida, acumulando 2,9 millones de seguidores en Instagram.
+
+1.3. Estilo de vida: La fachada del lujo
+
+Mientras operaba como ciberdelincuente, Torres Palacios presumía en redes sociales de una vida de alto perfil:
+
+· Viajes por Europa: París, Milán, Barcelona
+· Compras en marcas exclusivas: Gucci, Christian Dior
+· Asistencia a recitales y eventos de música urbana
+· Amistad pública con celebridades: El productor musical Bizarrap publicó en redes: "Respetos para @gov.eth. Otro nivel"; el rapero Duki compartió una historia con el hackeo a Perfil acompañada de emojis de aplausos
+
+Esta exhibición de riqueza contrastaba radicalmente con su discurso ideológico y fue clave para su identificación por parte de los investigadores.
+
+---
+
+2. IDEOLOGÍA: EL NACIONALSOCIALISMO DECLARADO
+
+2.1. Autodefinición ideológica
+
+Gov.eth confesó abiertamente su ideología en una entrevista exclusiva con el Vicepresidente y Director Digital de Perfil, Agustino Fontevecchia, tras el ataque al diario:
+
+"Soy nacional-socialista y lo digo abiertamente"
+
+En esa misma conversación, se definió como seguidor de Adolf Hitler y Benito Mussolini.
+
+2.2. Antisemitismo y racismo radical
+
+Su odio hacia la comunidad judía fue explícito y recurrente en todos sus ataques:
+
+· Llamó al presidente Javier Milei "Jewlei" (juego de palabras con "jew" -judío-)
+· Declaró odiar a Milei y a Donald Trump por "ser judíos", afirmando que "controlan todo"
+· En el hackeo a Perfil, dejó mensajes como "Que se jodan los judíos"
+· En el ataque a Ámbito Financiero, publicó el emblema de las SS junto a mensajes políticos
+
+2.3. Negación y contradicción
+
+A pesar de su autodefinición ideológica, Gov.eth intentó minimizar la motivación política de sus ataques, afirmando que lo hacía "por diversión" y que "no tiene nada que ver con política". Sin embargo, sus propias palabras y acciones demuestran lo contrario:
+
+· En la entrevista con Perfil, admitió su ideología nazi pero dijo que "no quiere hablar de política"
+· En el ataque a Mi Argentina, declaró: "Lo hicimos por diversión", pero luego presumió de su hazaña en redes sociales
+· Los expertos consultados señalan que el nivel de sofisticación técnica es incompatible con la improvisación y que existe una clara intencionalidad política
+
+---
+
+3. MODUS OPERANDI: TÉCNICAS Y HERRAMIENTAS
+
+3.1. Defacement (Desfiguramiento)
+
+La técnica principal de Gov.eth era el defacement o "desfiguramiento" de sitios web:
+
+· Toma de control de un sitio web vulnerado
+· Modificación del contenido original para mandar un mensaje político
+· Reemplazo de imágenes y textos por contenido provocador
+
+3.2. Doxxeo y filtración de datos
+
+Gov.eth accedía ilegalmente a bases de datos oficiales para extraer información personal sensible:
+
+· RENAPER (Registro Nacional de las Personas): Obtención de fotos de DNI y datos personales
+· DNRPA (Dirección Nacional de los Registros Nacionales de la Propiedad del Automotor): Acceso a registros vehiculares
+· SIFCOP (Sistema Federal de Comunicaciones Policiales): Descarga de documentos oficiales
+
+El caso más emblemático: La foto del DNI de Javier Milei que publicó en Perfil fue descargada del SIFCOP el 5 de abril de 2025 a las 14:18 horas.
+
+3.3. Venta de información y herramientas
+
+Gov.eth comercializaba la información robada y las herramientas de hackeo:
+
+· Venta de datos personales a través de canales de Telegram
+· Bot de indexación: Herramienta que permitía rastrear y extraer información privada de cualquier persona
+· Pagos en criptomonedas para servicios ilegales
+
+3.4. Vulnerabilidades explotadas
+
+Los ataques de Gov.eth fueron posibles gracias a graves fallas de seguridad informática:
+
+· Falta de segundo factor de autenticación (2FA) en los sistemas vulnerados
+· Credenciales filtradas obtenidas de páginas de pruebas del Gobierno
+· Escalada de privilegios hasta conseguir control de cuentas de administrador
+
+Según confesó el propio hacker: "Hackeamos la VPS [servidor en la nube], teníamos acceso a absolutamente todo, los códigos backup estaban regalados".
+
+---
+
+4. CRONOLOGÍA DE ATAQUES (2024-2026)
+
+4.1. Argentina: El inicio de la carrera criminal
+
+Diciembre 2024 - Ataque Navideño al Gobierno
+
+El 25 de diciembre de 2024, Gov.eth y su cómplice h4xx0r1337 atacaron el sitio oficial del Gobierno argentino (argentina.gob.ar) y Mi Argentina.
+
+· Reemplazaron el contenido con un videoclip del rapero "Homer el Mero Mero"
+· Dejaron mensajes burlescos como "really? hacked again!?" (¿de verdad? ¿hackeado de nuevo?)
+· También vulneraron la aplicación de la tarjeta SUBE
+
+Los atacantes explicaron su método: "Somos dos personas diferentes y no hay ningún grupo involucrado... Lo hicimos por diversión".
+
+Abril 2025 - El hackeo a Perfil.com
+
+El 8 de abril de 2025, Gov.eth vulneró los sistemas de Perfil.com y publicó en portada la foto del DNI de Javier Milei.
+
+· Ingresó a las 8:30 AM a los sistemas de publicación
+· Modificó varias notas con el epígrafe "HACKED BY @GOV.ETH"
+· Dejó mensajes antisemitas llamando a Milei "Jewlei"
+· Promocionó su canal de Telegram: "t.me/elhackermasfamoso"
+· El ataque fue un defacement que afectó la home del diario
+
+En una entrevista posterior, admitió haber cobrado por este tipo de trabajos y afirmó tener "protección".
+
+Junio 2025 - El ataque a Ámbito Financiero
+
+El 13 de junio de 2025, el sitio web del diario económico Ámbito Financiero fue víctima de un ciberataque firmado por Gov.eth.
+
+· Publicó el emblema de las SS junto a mensajes políticos
+· Incluyó etiquetas como #CFKPRESA y #CFKCHORRA
+· Invitó a unirse a su canal de Telegram
+· Se autoproclamó "el hacker más famoso"
+
+Mayo 2025 - Ataques a Data Diario y MDZ Online
+
+En menos de 24 horas, Gov.eth vulneró los sitios de Data Diario y MDZ Online.
+
+· Tomó el control de las portadas para dejar mensajes provocadores como "Fuck Milei"
+· Se sumaron a una extensa lista de blancos en medios nacionales y plataformas del Estado
+
+4.2. Uruguay: Expansión regional
+
+Marzo 2025 - Ataques a DINACIA y Buquebus
+
+Gov.eth atacó la Dirección Nacional de Aviación Civil e Infraestructura (DINACIA) de Uruguay.
+
+· Adulteró la web y puso una foto del presidente Yamandú Orsi
+· Firmó el ataque como "HACKED BY @GOV.ETH - PR1 - VLADI"
+· También atacó la página de Buquebus Turismo, apuntando nuevamente contra Orsi con insultos y críticas
+· Aseguró haber "bajado" la página oficial del gobierno uruguayo (gub.uy)
+
+Impacto en Uruguay:
+
+· Un joven de 18 años fue imputado por estos hackeos
+· Los ataques tuvieron efectos visibles como la caída temporal de sitios web oficiales (terminación .gub.uy)
+· Gov.eth acusó amenazas de muerte en Uruguay por parte del Frente Amplio
+
+4.3. España: El salto a Europa
+
+Junio 2025 - Exfiltración de datos de ministros
+
+Gov.eth exfiltró y difundió información privada de altos funcionarios del Gobierno de España.
+
+· Siete ministros del Gobierno de Pedro Sánchez vieron expuestos sus datos personales
+· El ciberdelincuente reivindicó la acción en su canal de Telegram
+· Se presentó como un "Robin Hood" que actúa "para el pueblo" y contra la "corrupción del PSOE"
+· La Policía lo mantuvo como principal sospechoso
+
+Contenido de la filtración:
+
+· Datos personales de ministros, periodistas y miembros del Gobierno
+· Información sensible de la vicepresidenta primera
+· Difusión a través de canales de Telegram con cerca de 1.300 seguidores
+
+4.4. México y Estados Unidos: Alcance global
+
+La actividad delictiva de Gov.eth tuvo alcance internacional y afectó infraestructuras públicas y privadas de México y Estados Unidos.
+
+---
+
+5. LA RED CRIMINAL: CÓMPLICES Y ORGANIZACIÓN
+
+5.1. El cómplice: h4xx0r1337
+
+Gov.eth operaba con un compañero identificado como h4xx0r1337.
+
+· Juntos atacaron el sitio oficial del Gobierno argentino en Navidad de 2024
+· Explicaron su motivación: "Somos dos pibes que estábamos aburridos y pudimos hacerlo"
+· No se ha confirmado si h4xx0r1337 fue detenido junto con Gov.eth
+
+5.2. La organización "Dictadores Digitales"
+
+La investigación del Departamento de Inteligencia Contra el Crimen Organizado (DICCO) de la PFA reveló la existencia de una organización criminal más amplia.
+
+La megacausa "DICTADORES" :
+
+· 21 allanamientos en cuatro provincias argentinas (Buenos Aires, Santa Fe, Córdoba y Mendoza)
+· 11 detenidos (diez hombres y una mujer)
+· Desarticulación completa de una peligrosa organización cibercriminal
+
+Estructura de la organización:
+
+· Administradores: Planificaban y coordinaban los ataques
+· Desarrolladores: Creaban las herramientas de hackeo
+· Operadores técnicos: Ejecutaban las intrusiones digitales
+· Lavadores de activos: Utilizaban criptoactivos para ocultar el dinero
+
+Actividades de la organización:
+
+· Comercialización de información robada
+· Vulneración de sistemas informáticos
+· Venta de herramientas de hackeo
+· Lavado de dinero mediante criptomonedas
+
+---
+
+6. EL OPERATIVO DE DETENCIÓN
+
+6.1. La investigación argentina
+
+La investigación se inició en octubre de 2025 a partir de directivas del Juzgado Federal de Primera Instancia de Campana, a cargo del Dr. Adrián González Charvay.
+
+Herramientas utilizadas:
+
+· Ley 27.319 de Técnicas Especiales de Investigación, Prevención y Lucha contra Delitos Complejos
+· Nuevas herramientas para establecer la verdadera identidad del hacker que operaba bajo un alias en la blockchain
+· Agente encubierto de la Policía Federal Argentina
+
+Identificación del sospechoso:
+
+· Se confirmó que "@Gov.eth" correspondía a M.E.T.P. (Matheo Enzo Torres Palacios)
+· Se obtuvo la ficha registral completa del sospechoso
+· Se localizó el inmueble utilizado como centro de operaciones, ubicado en Plaza Euskadi, Rivas-Vaciamadrid, Madrid
+
+6.2. La colaboración internacional
+
+Participación de fuerzas de seguridad:
+
+· Justicia Federal Argentina
+· Policía Federal Argentina (PFA) - Departamento Federal de Investigaciones (DFI)
+· Policía Nacional de España - Área de Cibercrimen
+· Grupo Conjunto contra el Crimen Organizado (GCO)
+
+El operativo en Madrid:
+
+· La Policía Nacional de España allanó la vivienda desde donde operaba el hacker
+· Desarticuló el "búnker" desde el cual operaba en la ciudad de Madrid
+· El detenido fue arrestado en un operativo conjunto
+
+6.3. La red de ciberdelincuencia juvenil
+
+La causa involucra a una red integrada por jóvenes, algunos de ellos menores de edad.
+
+Características de la red:
+
+· Realización de maniobras informáticas ilegales
+· Afectación de sistemas públicos y privados
+· Generación de preocupación en distintos organismos de seguridad
+
+---
+
+7. IMPACTO EN LA POBLACIÓN CIVIL
+
+7.1. Violación de la privacidad ciudadana
+
+Gov.eth no solo atacó a gobernantes, sino que vulneró la privacidad de ciudadanos comunes:
+
+· Acceso a bases de datos que contienen información de todos los argentinos
+· Venta de información sensible de ciudadanos uruguayos
+· Herramienta para conseguir datos personales de cualquier persona en el país
+· Extorsión a adolescentes con amenazas de divulgar información confidencial
+
+7.2. Amenazas personalizadas
+
+Gov.eth amenazó directamente a periodistas y ciudadanos:
+
+· Envió mensajes con fotos de armas y advertencias: "La vas a pasar mal. Tengo todos tus datos y los de tu familia entera"
+· Amenazó de muerte a periodistas en Uruguay
+· Expuso datos personales de funcionarios y sus familias
+
+7.3. Daño a la confianza institucional
+
+Los ataques de Gov.eth socavaron la confianza en las instituciones:
+
+· Exposición de vulnerabilidades en sistemas gubernamentales
+· Cuestionamiento a la falta de inversión en ciberseguridad
+· Debilitamiento de la credibilidad de medios de comunicación hackeados
+
+7.4. La banalización del terrorismo digital
+
+La glorificación de Gov.eth por parte de figuras públicas como Bizarrap y Duki:
+
+· Normaliza la actividad delictiva
+· Incentiva a otros jóvenes a seguir sus pasos
+· Desvaloriza el daño causado a las víctimas
+
+---
+
+8. ANÁLISIS PSICOSOCIAL
+
+8.1. El perfil del narcisista digital
+
+Gov.eth presenta rasgos clásicos de narcisismo:
+
+· Necesidad de notoriedad: Acumuló 2,9 millones de seguidores
+· Autoproclamación: Se llamó "el hacker más famoso"
+· Exhibicionismo: Presumió su vida de lujo en redes sociales
+· Búsqueda de validación: Buscó el reconocimiento de celebridades
+
+8.2. La contradicción ideológica
+
+Paradojas en su discurso:
+
+· Se define como nacionalsocialista pero odia a Milei y Trump por "ser judíos"
+· Dice no tener motivación política pero deja mensajes políticos en todos sus ataques
+· Se presenta como "Robin Hood" pero vende datos de ciudadanos comunes
+· Habla de "exponer fallas" pero comercializa las vulnerabilidades
+
+8.3. La peligrosa normalización
+
+La respuesta social a Gov.eth revela un problema más profundo:
+
+· Celebridades que lo elogian en lugar de condenarlo
+· Medios que le dan espacio para explicar sus ataques
+· Seguidores que lo idolatran en lugar de denunciarlo
+· Sociedad que banaliza el cibercrimen como "travesura de pibes aburridos"
+
+---
+
+9. EL BÚNKER DE MADRID: EL CENTRO DE OPERACIONES
+
+9.1. Ubicación y características
+
+El centro de operaciones de Gov.eth estaba ubicado en Plaza Euskadi, Rivas-Vaciamadrid, Madrid.
+
+Características del "búnker":
+
+· Equipamiento tecnológico de última generación
+· Conexiones a servidores en múltiples países
+· Sistemas de seguridad para evitar ser detectado
+· Condiciones de vida que reflejaban su estilo de vida de lujo
+
+9.2. El estilo de vida en el búnker
+
+Torres Palacios vivía en España desde hacía tiempo:
+
+· Residencia estable en la Comunidad de Madrid
+· Vida de alto perfil con viajes frecuentes por Europa
+· Compras en marcas exclusivas como Gucci y Christian Dior
+· Asistencia a recitales y eventos sociales
+
+---
+
+10. CONCLUSIONES Y ANÁLISIS ESTRATÉGICO
+
+10.1. Gov.eth como amenaza híbrida
+
+Gov.eth representa una amenaza híbrida que combina:
+
+1. Ciberdelincuencia: Vulneración de sistemas, robo de datos, venta de información
+2. Terrorismo ideológico: Propaganda neonazi, antisemitismo, mensajes de odio
+3. Crimen organizado: Red estructurada, lavado de dinero, comercialización de herramientas
+4. Impacto social: Violación de privacidad, amenazas personalizadas, daño a la confianza institucional
+
+10.2. Lecciones aprendidas
+
+Para gobiernos e instituciones:
+
+· Falta de 2FA como vulnerabilidad crítica
+· Necesidad de inversión en ciberseguridad
+· Importancia de la cooperación internacional para detener ciberdelincuentes transnacionales
+
+Para la sociedad:
+
+· Peligro de normalizar el cibercrimen
+· Responsabilidad de las celebridades al glorificar a delincuentes
+· Necesidad de alfabetización digital para identificar y denunciar amenazas
+
+10.3. El legado de Gov.eth
+
+El caso Gov.eth marcó un antes y un después en la lucha contra el cibercrimen en América Latina y Europa:
+
+· Demostró la conexión entre ciberdelincuencia y extremismo ideológico
+· Evidenció la necesidad de cooperación internacional
+· Reveló la vulnerabilidad de los sistemas gubernamentales
+· Puso en evidencia la peligrosa normalización del cibercrimen en la cultura digital
+
+---
+
+FIN DE LA PARTE 2
+
+Continuará con la Parte 3: El Contexto Más Amplio – La Amenaza Híbrida y las Medidas de Prevención
